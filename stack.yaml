@@ -1,0 +1,8 @@
+resolver: lts-13.13
+
+
+packages:
+- .
+
+extra-deps: [network-2.6.3.6]
+
